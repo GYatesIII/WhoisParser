@@ -13,7 +13,7 @@
     	}
 	]
   , "require": {
-  		"novutec/domainparser": "*"
+  		"gyatesiii/domainparser": "*"
   	}
   , "autoload": {
       	"classmap": ["Parser.php"]

@@ -13,7 +13,7 @@
     	}
 	]
   , "require": {
-  		"novutec/DomainParser": "*"
+  		"novutec/DomainParser": "*@dev"
   	}
   , "autoload": {
       	"classmap": ["Parser.php"]
